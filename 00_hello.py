@@ -14,4 +14,4 @@ print ("hello world con dos '")
 
 print ('hello world 2')
 
-print (type(10))
+print (type(100))
